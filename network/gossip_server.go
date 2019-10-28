@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"time"
 
-	owlconfig "github.com/xssed/owlcache/config"
-	"github.com/xssed/owlcache/group"
-	"github.com/xssed/owlcache/network/gossip"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	"github.com/beckbikang/owlcache/group"
+	"github.com/beckbikang/owlcache/network/gossip"
 
-	//"github.com/xssed/owlcache/tools"
-	owllog "github.com/xssed/owlcache/log"
+	//"github.com/beckbikang/owlcache/tools"
+	owllog "github.com/beckbikang/owlcache/log"
 )
 
 func startGossip() {

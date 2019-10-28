@@ -1,7 +1,7 @@
 package gossip
 
 import (
-	"github.com/xssed/owlcache/queue"
+	"github.com/beckbikang/owlcache/queue"
 )
 
 var (

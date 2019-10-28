@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	config "github.com/xssed/owlcache/config"
+	config "github.com/beckbikang/owlcache/config"
 )
 
 //创建一个全局应用日志

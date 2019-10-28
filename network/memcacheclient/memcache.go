@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/bradfitz/gomemcache/memcache"
-	owlconfig "github.com/xssed/owlcache/config"
-	owllog "github.com/xssed/owlcache/log"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	owllog "github.com/beckbikang/owlcache/log"
 )
 
 var mc *memcache.Client

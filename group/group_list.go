@@ -8,7 +8,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/xssed/owlcache/tools"
+	"github.com/beckbikang/owlcache/tools"
 )
 
 //切片list结构

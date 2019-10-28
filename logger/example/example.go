@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"os"
 
-	"github.com/xssed/owlcache/logger"
+	"github.com/beckbikang/owlcache/logger"
 )
 
 func main() {

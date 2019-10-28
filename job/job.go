@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
-	owlconfig "github.com/xssed/owlcache/config"
-	owllog "github.com/xssed/owlcache/log"
-	owlnetwork "github.com/xssed/owlcache/network"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	owllog "github.com/beckbikang/owlcache/log"
+	owlnetwork "github.com/beckbikang/owlcache/network"
 )
 
 func JobInit() {

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/xssed/owlcache/queue"
+	"github.com/beckbikang/owlcache/queue"
 )
 
 func main() {

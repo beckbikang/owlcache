@@ -4,8 +4,8 @@ import (
 	"os"
 	"strconv"
 
-	owlconfig "github.com/xssed/owlcache/config"
-	owllog "github.com/xssed/owlcache/log"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	owllog "github.com/beckbikang/owlcache/log"
 )
 
 //检查密码设置

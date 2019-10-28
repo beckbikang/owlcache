@@ -5,7 +5,7 @@ import (
 	"io"
 	"net"
 
-	owllog "github.com/xssed/owlcache/log"
+	owllog "github.com/beckbikang/owlcache/log"
 )
 
 type Client struct {

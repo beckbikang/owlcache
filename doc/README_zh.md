@@ -1,13 +1,13 @@
-<a href="https://github.com/xssed/owlcache" target="_blank">English</a> | 中文简介
+<a href="https://github.com/beckbikang/owlcache" target="_blank">English</a> | 中文简介
 
 <div align="center">
 
 # 🦉owlcache
 
-![Image text](https://github.com/xssed/owlcache/blob/master/doc/assets/owl.jpg?raw=true)
+![Image text](https://github.com/beckbikang/owlcache/blob/master/doc/assets/owl.jpg?raw=true)
 
-[![License](https://img.shields.io/github/license/xssed/owlcache.svg)](https://github.com/xssed/owlcache/blob/master/LICENSE)
-[![release](https://img.shields.io/github/release/xssed/owlcache.svg?style=popout-square)](https://github.com/xssed/owlcache/releases)
+[![License](https://img.shields.io/github/license/xssed/owlcache.svg)](https://github.com/beckbikang/owlcache/blob/master/LICENSE)
+[![release](https://img.shields.io/github/release/xssed/owlcache.svg?style=popout-square)](https://github.com/beckbikang/owlcache/releases)
 
 </div>
 
@@ -43,12 +43,12 @@
 猫头鹰🦉机灵又可爱。它们脑袋的活动范围为270°🦉。      
 
 
-![Image text](https://github.com/xssed/owlcache/blob/master/doc/assets/group.gif?raw=true)
+![Image text](https://github.com/beckbikang/owlcache/blob/master/doc/assets/group.gif?raw=true)
 
 
 ## 设计  
 
-![Image text](https://github.com/xssed/owlcache/blob/master/doc/assets/works_zh.png?raw=true)
+![Image text](https://github.com/beckbikang/owlcache/blob/master/doc/assets/works_zh.png?raw=true)
 
 
 
@@ -60,7 +60,7 @@
 源码下载
 * go命令下载(会自动下载依赖库，如果直接下载源码编译会提示类库缺失)
 ```shell
-go get -u github.com/xssed/owlcache
+go get -u github.com/beckbikang/owlcache
 ```
 
 进入owlcache主目录执行编译命令
@@ -92,7 +92,7 @@ owlcache -help
 ```shell
 Welcome to use owlcache. Version:XXX
 If you have any questions,Please contact us: xsser@xsser.cc
-Project Home:https://github.com/xssed/owlcache
+Project Home:https://github.com/beckbikang/owlcache
                 _                _
    _____      _| | ___ __ _  ___| |__   ___
   / _ \ \ /\ / / |/ __/ _' |/ __| '_ \ / _ \

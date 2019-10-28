@@ -3,14 +3,14 @@ package network
 import (
 	"fmt"
 
-	"github.com/xssed/owlcache/cache"
-	owlconfig "github.com/xssed/owlcache/config"
-	"github.com/xssed/owlcache/counter"
-	"github.com/xssed/owlcache/group"
-	owllog "github.com/xssed/owlcache/log"
-	"github.com/xssed/owlcache/network/httpclient"
-	"github.com/xssed/owlcache/network/memcacheclient"
-	"github.com/xssed/owlcache/network/redisclient"
+	"github.com/beckbikang/owlcache/cache"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	"github.com/beckbikang/owlcache/counter"
+	"github.com/beckbikang/owlcache/group"
+	owllog "github.com/beckbikang/owlcache/log"
+	"github.com/beckbikang/owlcache/network/httpclient"
+	"github.com/beckbikang/owlcache/network/memcacheclient"
+	"github.com/beckbikang/owlcache/network/redisclient"
 )
 
 //创建一个全局的缓存DB

@@ -3,9 +3,9 @@ package network
 import (
 	"net/http"
 
-	"github.com/xssed/owlcache/group"
-	owllog "github.com/xssed/owlcache/log"
-	tools "github.com/xssed/owlcache/tools"
+	"github.com/beckbikang/owlcache/group"
+	owllog "github.com/beckbikang/owlcache/log"
+	tools "github.com/beckbikang/owlcache/tools"
 )
 
 //一个请求只产生一个 OwlServerGroupHandler

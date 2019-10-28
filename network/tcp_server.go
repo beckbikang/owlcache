@@ -1,8 +1,8 @@
 package network
 
 import (
-	owlconfig "github.com/xssed/owlcache/config"
-	"github.com/xssed/owlcache/network/tcp"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	"github.com/beckbikang/owlcache/network/tcp"
 )
 
 func startTCP() {

@@ -3,9 +3,9 @@ package network
 import (
 	"net/http"
 
-	owlconfig "github.com/xssed/owlcache/config"
-	//owllog "github.com/xssed/owlcache/log"
-	owlsystem "github.com/xssed/owlcache/system"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	//owllog "github.com/beckbikang/owlcache/log"
+	owlsystem "github.com/beckbikang/owlcache/system"
 )
 
 type ServerEntity struct {

@@ -3,12 +3,12 @@ package main
 import (
 	"runtime"
 
-	owlaegis "github.com/xssed/owlcache/aegis"
-	owlconfig "github.com/xssed/owlcache/config"
-	owljob "github.com/xssed/owlcache/job"
-	owllog "github.com/xssed/owlcache/log"
-	owlnetwork "github.com/xssed/owlcache/network"
-	owlsystem "github.com/xssed/owlcache/system"
+	owlaegis "github.com/beckbikang/owlcache/aegis"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	owljob "github.com/beckbikang/owlcache/job"
+	owllog "github.com/beckbikang/owlcache/log"
+	owlnetwork "github.com/beckbikang/owlcache/network"
+	owlsystem "github.com/beckbikang/owlcache/system"
 )
 
 //                _                _
@@ -18,7 +18,7 @@ import (
 //  \___/ \_/\_/ |_|\___\__,_|\___|_| |_|\___|
 //
 //If you have any questions,Please contact us: xsser@xsser.cc
-//Project Home:https://github.com/xssed/owlcache
+//Project Home:https://github.com/beckbikang/owlcache
 
 func main() {
 	//使用多核cpu

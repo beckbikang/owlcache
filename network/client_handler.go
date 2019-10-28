@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"sync"
 
-	"github.com/xssed/owlcache/group"
-	owllog "github.com/xssed/owlcache/log"
+	"github.com/beckbikang/owlcache/group"
+	owllog "github.com/beckbikang/owlcache/log"
 )
 
 //发起请求获取集合数据

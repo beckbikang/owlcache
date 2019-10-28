@@ -3,7 +3,7 @@ package tcp
 import (
 	"net"
 
-	owllog "github.com/xssed/owlcache/log"
+	owllog "github.com/beckbikang/owlcache/log"
 )
 
 type server struct {

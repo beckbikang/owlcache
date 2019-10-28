@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/xssed/owlcache/logger"
+	"github.com/beckbikang/owlcache/logger"
 )
 
 type OwlLog struct {

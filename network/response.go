@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	owlconfig "github.com/xssed/owlcache/config"
+	owlconfig "github.com/beckbikang/owlcache/config"
 )
 
 type OwlResponse struct {

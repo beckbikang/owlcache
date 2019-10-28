@@ -5,14 +5,14 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/xssed/owlcache/cache"
-	owlconfig "github.com/xssed/owlcache/config"
-	owllog "github.com/xssed/owlcache/log"
+	"github.com/beckbikang/owlcache/cache"
+	owlconfig "github.com/beckbikang/owlcache/config"
+	owllog "github.com/beckbikang/owlcache/log"
 
-	"github.com/xssed/owlcache/network/gossip"
-	"github.com/xssed/owlcache/network/memcacheclient"
-	"github.com/xssed/owlcache/network/redisclient"
-	tools "github.com/xssed/owlcache/tools"
+	"github.com/beckbikang/owlcache/network/gossip"
+	"github.com/beckbikang/owlcache/network/memcacheclient"
+	"github.com/beckbikang/owlcache/network/redisclient"
+	tools "github.com/beckbikang/owlcache/tools"
 )
 
 //一个请求只产生一个 OwlHandler
