@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd2fdbd3-174f-4766-a583-4f9424190727" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aegis/client_request.go" beforeDir="false" afterPath="$PROJECT_DIR$/aegis/client_request.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aegis/pass.go" beforeDir="false" afterPath="$PROJECT_DIR$/aegis/pass.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aegis/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/aegis/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/base_cache.go" beforeDir="false" afterPath="$PROJECT_DIR$/cache/base_cache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/README_zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/README_zh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/en/0.directory.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/en/0.directory.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/en/1.download_and_install.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/en/1.download_and_install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/zh/0.directory.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/zh/0.directory.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/zh/1.download_and_install.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/zh/1.download_and_install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/group/group_list.go" beforeDir="false" afterPath="$PROJECT_DIR$/group/group_list.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job/job.go" beforeDir="false" afterPath="$PROJECT_DIR$/job/job.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/owllog.go" beforeDir="false" afterPath="$PROJECT_DIR$/log/owllog.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger/example/example.go" beforeDir="false" afterPath="$PROJECT_DIR$/logger/example/example.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/client_handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/client_handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/gossip/gossip.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/gossip/gossip.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/gossip/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/gossip/handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/gossip_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/gossip_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/group_handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/group_handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/handler.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/http_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/http_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/httpclient/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/httpclient/http.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/httpclient/http_client.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/httpclient/http_client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/memcacheclient/memcache.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/memcacheclient/memcache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/redisclient/redis.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/redisclient/redis.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/response.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/response.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/server_entity.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/server_entity.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/service_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/service_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp/client.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/tcp_server.go" beforeDir="false" afterPath="$PROJECT_DIR$/network/tcp_server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/owlcache.conf" beforeDir="false" afterPath="$PROJECT_DIR$/owlcache.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/owlcache.go" beforeDir="false" afterPath="$PROJECT_DIR$/owlcache.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/queue/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/sysinfo.go" beforeDir="false" afterPath="$PROJECT_DIR$/system/sysinfo.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/function.go" beforeDir="false" afterPath="$PROJECT_DIR$/tools/function.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,7 +13,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="go.mod" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="go.sum" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.sum">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="owlcache.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/owlcache.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/function.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+              <folding>
+                <element signature="e#15#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="group_list.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/group/group_list.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-36">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#15#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>github.com/xssed/owlcache</find>
+      <find>xssed/owlcache</find>
+      <find>bikang</find>
+      <find>xssed</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>github.com/beckbikang/owlcache</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.12.9/libexec" />
   <component name="Git.Settings">
@@ -86,6 +118,11 @@
               <item name="owlcache" type="b2602c69:ProjectViewProjectNode" />
               <item name="owlcache" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="owlcache" type="b2602c69:ProjectViewProjectNode" />
+              <item name="owlcache" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -117,6 +154,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1440" height="824" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19527897" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -146,10 +184,44 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/github.com/satori/go.uuid/uuid.go" />
-    <entry file="file://$PROJECT_DIR$/tools/function.go">
+    <entry file="file://$PROJECT_DIR$/group/group_list.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-36">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#15#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.sum">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/owlcache.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/function.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding>
+            <element signature="e#15#109#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
