@@ -19,7 +19,7 @@ func GetMd5String(s string) string {
 
 //生成UUID
 func GetUUIDString() string {
-	uuid := uuid.Must(uuid.NewV4())
+	uuid := uuid.Must(uuid.NewV4(),nil)
 	return uuid.String()
 }
 

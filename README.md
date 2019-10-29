@@ -6,8 +6,8 @@ English | <a href="https://github.com/beckbikang/owlcache/blob/master/doc/README
 
 ![Image text](https://github.com/beckbikang/owlcache/blob/master/doc/assets/owl.jpg?raw=true)
 
-[![License](https://img.shields.io/github/license/xssed/owlcache.svg)](https://github.com/beckbikang/owlcache/blob/master/LICENSE)
-[![release](https://img.shields.io/github/release/xssed/owlcache.svg?style=popout-square)](https://github.com/beckbikang/owlcache/releases)
+[![License](https://img.shields.io/github/license/beckbikang/owlcache.svg)](https://github.com/beckbikang/owlcache/blob/master/LICENSE)
+[![release](https://img.shields.io/github/release/beckbikang/owlcache.svg?style=popout-square)](https://github.com/beckbikang/owlcache/releases)
 
 </div>
 
